@@ -1,0 +1,32 @@
+*{
+    background-color: rgba(188, 17, 17, 0.5)
+}
+
+h1, h2{
+    color: rgb(239, 225, 32)
+}
+p{
+    color: rgb(65, 156, 247)
+}
+
+p{
+    font-size: 35px
+}
+
+.center {
+    text-align: center
+}
+
+.large {
+    font-size: 40px
+}
+
+*{
+    box-sizing: border-box;
+    padding: 25px
+}
+
+body{
+    background-image: url("images/gears 3.jpg");
+}
+
